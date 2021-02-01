@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.cs
+/DataStructures/obj/Release/netcoreapp3.1/DataStructures.AssemblyInfoInputs.cache
+/DataStructures/obj/Release/netcoreapp3.1/DataStructures.assets.cache
+/.vs
+/DataStructures/bin/Debug/netcoreapp3.1
+*.exe
+/DataStructures/obj/Debug/netcoreapp3.1
+*.cache
